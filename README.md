@@ -70,7 +70,7 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="[www.linkedin.com/in/houssame-ouchahboun](https://www.linkedin.com/in/houssame-ouchahboun/?locale=en)">
+<a href="[[www.linkedin.com/in/houssame-ouchahboun](https://www.linkedin.com/in/houssame-ouchahboun/?locale=en)](https://www.linkedin.com/in/houssame-ouchahboun/?locale=en)">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
