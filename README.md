@@ -1,61 +1,61 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Houssame Ouchahboun</h1>
 
-# 👋 Hi, I'm Houssame Ouchahboun
+<h3 align="center">
+Computer Science Student | Frontend & Full Stack Developer 💻
+</h3>
 
-### 💻 Full-Stack Developer | 🎓 Computer Science Student | 🚀 AI Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Computer+Science+Student;Building+Awesome+Projects;Always+Learning+New+Things"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OuchahbounHoussame&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student
-- 💻 Passionate about Web Development & AI
-- 🌱 Currently learning NixOS, React & Backend
-- 🚀 Building Open Source Projects
-- 🇲🇦 Based in Morocco
+🎓 Computer Science Student at Université Hassan II  
+💻 Frontend & Full Stack Developer  
+🌱 Currently learning React, Node.js & System Design  
+⚡ Passionate about building useful projects and sharing knowledge
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Technologies & Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,python,c,cpp,java,git,github,docker,linux,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,linux" />
 
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OuchahbounHoussame&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OuchahbounHoussame&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OuchahbounHoussame&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=OuchahbounHoussame&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OuchahbounHoussame&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🔥 Contribution Streak
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OuchahbounHoussame&theme=tokyo-night"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OuchahbounHoussame&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🐍 My Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/OuchahbounHoussame/OuchahbounHoussame/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -65,26 +65,16 @@
 
 <p align="center">
 
-<a href="https://github.com/OuchahbounHoussame">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/houssame-ouchahboun/?locale=en">
+<a href="https://www.linkedin.com/in/houssame-ouchahboun/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="#">
-<img src="https://skillicons.dev/icons?i=discord"/>
+<a href="https://github.com/OuchahbounHoussame">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </p>
 
 ---
 
-<div align="center">
-
-### 💭 Quote
-
-> **"Code. Learn. Build. Repeat."** 🚀
-
-</div>
+⭐ From [OuchahbounHoussame](https://github.com/OuchahbounHoussame)
