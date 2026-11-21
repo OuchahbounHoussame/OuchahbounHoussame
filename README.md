@@ -1,81 +1,38 @@
-<div align="center">
+# Houssame Ouchahboun
 
-# 👋 Hi, I'm Houssame Ouchahboun
+**AI Engineering Student · Python · Data & Backend Development**
 
-### 💻 Full-Stack Developer | 🎓 Computer Science Student | 🚀 AI Enthusiast
+I am an AI engineering student based in Casablanca, Morocco. I build practical applications and explore how AI and data can make everyday tools more useful.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Computer+Science+Student;Building+Awesome+Projects;Always+Learning+New+Things"/>
+### What I work on
 
-</div>
+- **Applied AI** — tools that help people learn and work with information.
+- **Data** — Python, pandas, data analysis and visualization.
+- **Backend development** — application logic, APIs and web services.
 
----
+### Selected projects
 
-## 🚀 About Me
+| Project | What it does |
+| --- | --- |
+| [AI PowerPoint Assistant](https://github.com/OuchahbounHoussame/AI-PowerPoint-Assistant) | AI-powered study assistant with chat, summaries, flashcards, quizzes and slide explanations. |
+| [CozyStitches](https://www.shopcozystitches.com) | A digital crochet pattern storefront with a blog and email delivery for a free pattern. |
+| [Personal Portfolio](https://github.com/OuchahbounHoussame/myportfolio) | Personal portfolio website built with React and Vite. |
 
-- 🎓 Computer Science Student
-- 💻 Passionate about Web Development & AI
-- 🌱 Currently learning NixOS, React & Backend
-- 🚀 Building Open Source Projects
-- 🇲🇦 Based in Morocco
+### Tools & technologies
 
----
+**Data & Python**  
+Python · pandas · Matplotlib · Jupyter
 
-## 🛠 Tech Stack
+**Application development**  
+JavaScript · React · Node.js · Express
 
-<p align="center">
+**Workflow**  
+Git · GitHub · Vercel
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,python,c,cpp,java,git,github,docker,linux,vscode,figma"/>
+### Currently learning
 
-</p>
+Strengthening my foundations in machine learning, statistics and backend development through coursework and hands-on projects.
 
----
+### Connect
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=OuchahbounHoussame&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OuchahbounHoussame&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/OuchahbounHoussame">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/houssame-ouchahboun/?locale=en">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=discord"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### 💭 Quote
-
-> **"Code. Learn. Build. Repeat."** 🚀
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/houssame-ouchahboun/) · [Explore my repositories](https://github.com/OuchahbounHoussame?tab=repositories)
